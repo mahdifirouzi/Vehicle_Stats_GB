@@ -108,14 +108,12 @@ This repository is licensed under the Creative Commons Attribution License (CC B
 
 ## Acknowledgments
 
-- **Data Source**: UK Government's National Travel Statistics.
-![Department for Transport Logo](assets/DfT_logo.png)
+- **Data Source**: UK Government's National Travel Statistics.  
+  <img src="assets/DfT_logo.png" alt="Department for Transport Logo" width="200" />
 
+- **University**: Nottingham Trent University  
+  <img src="assets/NTU_logo.jpg" alt="Nottingham Trent University Logo" width="250" />
 
-- **University**: Nottingham Trent University 
-![Nottingham Trent University Logo](assets/NTU_logo.jpg)
-
-- **Organization**: Integrated Energy Grids Laboratory (GRIDLAB)
-![Integrated Energy Grids Laboratory Logo](assets/GRIDLAB_logo.png)
-
+- **Organization**: Integrated Energy Grids Laboratory (GRIDLAB)  
+  <img src="assets/GRIDLAB_logo.png" alt="Integrated Energy Grids Laboratory Logo" width="250" />
 
