@@ -99,9 +99,9 @@ We welcome contributions to improve this repository. If you'd like to contribute
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution License (CC BY 4.0). See `LICENSE` for details.
-
-### Related Publication
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+Proper attribution includes citing the following paper:
 [Firouzi, M., Nazar, M. S., Shafie-khah, M., & Catalão, J. P. S. (2023). Integrated framework for modeling the interactions of plug-in hybrid electric vehicles aggregators, parking lots and distributed generation facilities in electricity markets. *Applied Energy, 334*, 120703.](https://doi.org/10.1016/j.apenergy.2023.120703)
 
 ---
