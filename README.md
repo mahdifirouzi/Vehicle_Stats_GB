@@ -2,8 +2,7 @@
 
 This repository provides tools to download, extract, and process the UK's National Travel Statistics (NTS) data. It simplifies accessing and analyzing travel data for research, reporting, or decision-making.
 
-![Department for Transport Logo](https://via.placeholder.com/150?text=Department+for+Transport+Logo)  
-![Nottingham Trent University Logo](https://via.placeholder.com/150?text=NTU+Logo)
+
 
 ---
 
@@ -110,8 +109,11 @@ This repository is licensed under the Creative Commons Attribution License (CC B
 ## Acknowledgments
 
 - **Data Source**: UK Government's National Travel Statistics.
-
-- **Organization**: Nottingham Trent University (Gridlab)  
-
+![Department for Transport Logo](assets/DfT_logo.png)
+<img src="assets/DfT_logo.png" alt="Department for Transport Logo" width="150">
+- **University**: Nottingham Trent University 
+![Nottingham Trent University Logo](assets/NTU_logo.png)
+- **Organization**: Integrated Energy Grids Laboratory (GRIDLAB)
+![Integrated Energy Grids Laboratory Logo](assets/GRIDLAB_logo.png)
 
 
