@@ -112,7 +112,7 @@ This repository is licensed under the Creative Commons Attribution License (CC B
 ![Department for Transport Logo](assets/DfT_logo.png)
 <img src="assets/DfT_logo.png" alt="Department for Transport Logo" width="150">
 - **University**: Nottingham Trent University 
-![Nottingham Trent University Logo](assets/NTU_logo.png)
+![Nottingham Trent University Logo](assets/NTU_logo.jpg)
 - **Organization**: Integrated Energy Grids Laboratory (GRIDLAB)
 ![Integrated Energy Grids Laboratory Logo](assets/GRIDLAB_logo.png)
 
