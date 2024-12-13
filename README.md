@@ -110,7 +110,8 @@ This repository is licensed under the Creative Commons Attribution License (CC B
 ## Acknowledgments
 
 - **Data Source**: UK Government's National Travel Statistics.
-  **Organization**: Nottingham Trent University (Gridlab)  
+
+- **Organization**: Nottingham Trent University (Gridlab)  
 
 
 
