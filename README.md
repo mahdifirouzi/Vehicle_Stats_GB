@@ -23,4 +23,5 @@ This repository provides tools to download, extract, and process the UK's Nation
 .
 ├── download_extract.py     # Script to download and extract NTS data
 ├── filter_ods_files.py     # Script to filter and process extracted ODS files
+├── LICENSE                 # License file for the repository
 └── README.md               # Documentation for the repository
