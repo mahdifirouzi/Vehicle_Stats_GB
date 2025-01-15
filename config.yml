@@ -1,0 +1,58 @@
+#Make and model by quarter
+##############################################################
+#Scope: All registered vehicles in Great Britain; from 1994 Quarter 4 (end December)
+#Schema: BodyType, Make, GenModel, Model, Fuel, LicenceStatus, [number of vehicles; 1 column per quarter]
+df_VEH0120_GB: "//*[@id='contents']/div[2]/div/div/p[7]/span/a"
+
+#Scope: All registered vehicles in the United Kingdom; from 2014 Quarter 3 (end September)
+#Schema: BodyType, Make, GenModel, Model, Fuel, LicenceStatus, [number of vehicles; 1 column per quarter]
+df_VEH0120_UK: "//*[@id='contents']/div[2]/div/div/p[10]/span/a"
+
+#Scope: All vehicles registered for the first time in Great Britain; from 2001 Quarter 1 (January to March)
+#Schema: BodyType, Make, GenModel, Model, Fuel, [number of vehicles; 1 column per quarter]
+df_VEH0160_GB: "//*[@id='contents']/div[2]/div/div/p[13]/span/a"
+
+#Scope: All vehicles registered for the first time in the United Kingdom; from 2014 Quarter 3 (July to September)
+#Schema: BodyType, Make, GenModel, Model, Fuel, [number of vehicles; 1 column per quarter]
+df_VEH0160_UK: "//*[@id='contents']/div[2]/div/div/p[16]/span/a"
+
+#Make and model by age
+#In order to keep the datafile df_VEH0124 to a reasonable size, it has been split into 2 halves; 1 covering makes starting with A to M, and the other covering makes starting with N to Z.
+##############################################################
+#Scope: All licensed vehicles in the United Kingdom with Make starting with A to M; annually from 2014
+#Schema: BodyType, Make, GenModel, Model, YearFirstUsed, YearManufacture, LicenceStatus, [number of vehicles; 1 column per year]
+df_VEH0124_AM: "//*[@id='contents']/div[2]/div/div/p[20]/span/a"
+
+#Scope: All licensed vehicles in the United Kingdom with Make starting with N to Z; annually from 2014
+#Schema: BodyType, Make, GenModel, Model, YearFirstUsed, YearManufacture, LicenceStatus, [number of vehicles; 1 column per year]
+df_VEH0124_NZ: "//*[@id='contents']/div[2]/div/div/p[23]/span/a"
+
+#Make and model by engine size
+##############################################################
+#Scope: All licensed vehicles in the United Kingdom; annually from 2014
+#Schema: BodyType, Make, GenModel, Model, Fuel, EngineSizeSimple, EngineSizeDesc, LicenceStatus, [number of vehicles; 1 column per year]
+df_VEH0220: "//*[@id='contents']/div[2]/div/div/p[26]/span/a"
+
+#Scope: All vehicles registered for the first time in the United Kingdom; annually from 2015
+#Schema: BodyType, Make, GenModel, Model, Fuel, EngineSizeSimple, EngineSizeDesc, [number of vehicles; 1 column per year]
+df_VEH0270: "//*[@id='contents']/div[2]/div/div/p[29]/span/a"
+
+#Vehicles by small geography
+##############################################################
+#Scope: All licensed vehicles in the United Kingdom; Great Britain from 2009 Quarter 4 (end December); and United Kingdom from 2014 Quarter 3 (end September)
+#Schema: LSOA11CD, LSOA11NM, BodyType, Keepership, LicenceStatus, [number of vehicles; 1 column per quarter]
+df_VEH0125: "//*[@id='contents']/div[2]/div/div/p[33]/span/a"
+
+#Scope: All licensed ultra low emission vehicles in the United Kingdom; from 2011 Quarter 4 (end December)
+#Schema: LSOA11CD, LSOA11NM, Fuel, Keepership, [number of vehicles; 1 column per quarter]
+df_VEH0135: "//*[@id='contents']/div[2]/div/div/p[36]/span/a"
+
+#Scope: All licensed plug-in vehicles in the United Kingdom; from 2011 Quarter 4 (end December)
+#Schema: LSOA11CD, LSOA11NM, Fuel, Keepership, [number of vehicles; 1 column per quarter]
+df_VEH0145: "//*[@id='contents']/div[2]/div/div/p[39]/span/a"
+
+#Heavy goods vehicles
+##############################################################
+#Scope: All licensed heavy goods vehicles (HGVs), as well as all licensed zero emission light goods vehicles (LGVs) between 3.5 tonnes and 4.25 tonnes in the United Kingdom; annually; Great Britain from 1994; and United Kingdom from 2014
+#Schema: Geography, TaxClass, WheelPlan, WheelPlanDetailed, BodyTypeDetailed, RoadUsing, MaximumGrossWeightBand, YearFirstUsed, Fuel, [number of vehicles; 1 column per year]
+df_VEH0520: "//*[@id='contents']/div[2]/div/div/p[43]/span/a"
