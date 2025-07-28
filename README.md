@@ -102,7 +102,9 @@ We welcome contributions to improve this repository. If you'd like to contribute
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 Proper attribution includes citing the following paper:
-[Firouzi, M., Nazar, M. S., Shafie-khah, M., & Catalão, J. P. S. (2023). Integrated framework for modeling the interactions of plug-in hybrid electric vehicles aggregators, parking lots and distributed generation facilities in electricity markets. *Applied Energy, 334*, 120703.](https://doi.org/10.1016/j.apenergy.2023.120703)
+[M. F. Nezambadi, V. Vahidinasab, Z. Zakeri, and J. Aghaei
+"Electric Vehicle as a Mobile Energy Storage: Market Analysis and Grid Integration Challenges."
+2025 21st International Conference on the European Energy Market (EEM), Lisbon, Portugal, pp. 1–7, 2025.](https://doi.org/10.1109/EEM64765.2025.11050261)
 
 ---
 
