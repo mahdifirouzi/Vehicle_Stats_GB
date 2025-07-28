@@ -109,7 +109,6 @@ Proper attribution includes citing the following paper:
 ## Acknowledgments
 
 - **Data Source**: UK Government's National Travel Statistics.  
-  <img src="assets/DfT_logo.png" alt="Department for Transport Logo" width="200" />
 
 - **University**: Nottingham Trent University  
   <img src="assets/NTU_logo.jpg" alt="Nottingham Trent University Logo" width="250" />
